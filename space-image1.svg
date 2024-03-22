@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="500" height="500">
+  <!-- Background (space) -->
+  <rect width="100%" height="100%" fill="#000" />
+  
+  <!-- Sun -->
+  <circle cx="500" cy="500" r="50" fill="#FFD700" />
+  
+  <!-- Mercury -->
+  <circle cx="350" cy="500" r="5" fill="#D3D3D3" />
+  <text x="340" y="530" fill="#FFF" font-size="12" font-family="Arial">Mercury</text>
+  
+  <!-- Venus -->
+  <circle cx="400" cy="500" r="8" fill="#FFA500" />
+  <text x="390" y="530" fill="#FFF" font-size="12" font-family="Arial">Venus</text>
+  
+  <!-- Earth -->
+  <circle cx="450" cy="500" r="8" fill="#00F" />
+  <text x="440" y="530" fill="#FFF" font-size="12" font-family="Arial">Earth</text>
+  
+  <!-- Mars -->
+  <circle cx="500" cy="500" r="7" fill="#FF4500" />
+  <text x="490" y="530" fill="#FFF" font-size="12" font-family="Arial">Mars</text>
+  
+  <!-- Jupiter -->
+  <circle cx="550" cy="500" r="20" fill="#FFD700" />
+  <text x="530" y="530" fill="#FFF" font-size="12" font-family="Arial">Jupiter</text>
+  
+  <!-- Saturn -->
+  <circle cx="630" cy="500" r="18" fill="#FFD700" />
+  <text x="610" y="530" fill="#FFF" font-size="12" font-family="Arial">Saturn</text>
+  
+  <!-- Uranus -->
+  <circle cx="700" cy="500" r="15" fill="#00F" />
+  <text x="680" y="530" fill="#FFF" font-size="12" font-family="Arial">Uranus</text>
+  
+  <!-- Neptune -->
+  <circle cx="750" cy="500" r="14" fill="#00F" />
+  <text x="730" y="530" fill="#FFF" font-size="12" font-family="Arial">Neptune</text>
+</svg>
